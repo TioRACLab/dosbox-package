@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TioRACLab.DosBox.Package", "TioRACLab.DosBox.Package\TioRACLab.DosBox.Package.csproj", "{3C4520C3-9DC6-4DD2-83C6-E58338ED1947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TioRACLab.DosBox.PackageTest", "TioRACLab.DosBox.PackageTest\TioRACLab.DosBox.PackageTest.csproj", "{B3CA1DAB-3ECA-4AAB-8BA7-1285D26597E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4520C3-9DC6-4DD2-83C6-E58338ED1947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4520C3-9DC6-4DD2-83C6-E58338ED1947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4520C3-9DC6-4DD2-83C6-E58338ED1947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4520C3-9DC6-4DD2-83C6-E58338ED1947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CA1DAB-3ECA-4AAB-8BA7-1285D26597E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CA1DAB-3ECA-4AAB-8BA7-1285D26597E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CA1DAB-3ECA-4AAB-8BA7-1285D26597E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CA1DAB-3ECA-4AAB-8BA7-1285D26597E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7778120-9994-4D4E-854F-7BACAC0C9FA9}
+	EndGlobalSection
+EndGlobal
