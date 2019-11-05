@@ -12,7 +12,7 @@ namespace TioRACLab.DosBox.PackageTest
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            TioRACLab.DosBox.Package.Class1.aaa();
         }
     }
 }
